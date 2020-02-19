@@ -14,6 +14,7 @@ import (
 var client *http.Client
 
 const host = "https://quote-garden.herokuapp.com/quotes"
+// ref: https://github.com/shevabam/breaking-bad-quotes
 const bb_host = "https://breaking-bad-quotes.herokuapp.com"
 const port = "8080"
 
